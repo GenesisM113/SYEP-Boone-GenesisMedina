@@ -17,3 +17,8 @@ body{
 .accent{
     color: #9c7a50;
 }
+
+p{
+    justify-content: center;
+    align-content: center;
+}
