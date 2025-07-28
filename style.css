@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: burlywood;
+    background-color: rgb(117, 112, 104);
     text-align: center;  
     line-height: 2.1;
 }
@@ -15,12 +15,12 @@ body{
 }
 
 .accent{
-    color: #9c7a50;
+    color: #ffffff;
 }
 
 p{
-    padding-left: auto;
-    padding-right: auto;
+    padding: 10px;
+    margin: 10px;
 }
 
 @media screen (max-width: 768px)
@@ -39,7 +39,7 @@ p{
 }
 
 .grid div {
-    background-color: rgb(245, 213, 155);
+    background-color: rgb(178, 175, 170);
     border-radius: 100px;
     padding: 7px
     min-width: 80px;
