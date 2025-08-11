@@ -45,3 +45,7 @@ p{
     min-width: 80px;
 }
 
+div img {
+  border-radius: 70%;
+  rotate: 270deg;
+}
