@@ -263,12 +263,12 @@ main {
 }
 .prev-btn:hover,
 .next-btn:hover {
- color: var(--clr-primary-5);
+ color: black;
 }
 .random-btn {
  margin-top: 0.5rem;
  background: var(--clr-primary-10);
- color: var(--clr-primary-5);
+ color: black;
  padding: 0.25rem 0.5rem;
  text-transform: capitalize;
  border-radius: var(--radius);
@@ -278,6 +278,21 @@ main {
 }
 .random-btn:hover {
  background: var(--clr-primary-5);
- color: var(--clr-primary-1);
+ color: black;
 }
 
+body {
+    background-color: rgb(117, 112, 104);
+}
+
+h2{
+  color: Black
+}
+
+.container {
+    background-color: rgb(178, 175, 170);
+}
+
+.next-btn, .prev-btn {
+  color: black
+}
