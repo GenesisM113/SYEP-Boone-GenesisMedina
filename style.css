@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: rgb(117, 112, 104);
+    background-color: rgb(191, 235, 247);
     text-align: center;  
     line-height: 2.1;
 }
@@ -15,7 +15,7 @@ body{
 }
 
 .accent{
-    color: #ffffff;
+    color: rgb(0, 98, 255);
 }
 
 p{
@@ -39,8 +39,8 @@ p{
 }
 
 .grid div {
-    background-color: rgb(178, 175, 170);
-    border-radius: 100px;
+    background-color: rgb(96, 162, 187);
+    
     padding: 7px
     min-width: 80px;
 }
@@ -48,4 +48,11 @@ p{
 div img {
   border-radius: 70%;
   rotate: 270deg;
+}
+
+#me {
+    color: rgb(0, 98, 255);
+}
+* {
+    font-weight: 300;
 }
