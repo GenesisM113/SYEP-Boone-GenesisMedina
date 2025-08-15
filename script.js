@@ -1,24 +1,24 @@
 const reviews = [
     {
         id: 1,
-        name: 'Susan Smith',
-        job: 'Web Developer',
+        name: 'Jayden John',
+        job: 'Student',
         img: '#',
-        text: 'Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor.',
+        text: 'She is great at explaining tough concepts, whether it is math, coding, or even swimming techniques. She is always willing to help and still manages to stay focused on her own goals.',
     },
     {
         id: 2,
-        name: 'Anna Johnson',
-        job: 'Web Designer',
+        name: 'Lisa Perez',
+        job: 'Teacher',
         img: '#',
-        text: 'Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor.',
+        text: 'She consistently delivers top-notch work, whether it is crafting unique short stories or writing debate essays. Her diligence and sharp mind make her one of the brightest students I have worked with.',
     },
     {
         id: 3,
-        name: 'Peter Jones',
+        name: 'Micheal Trainer',
         job: 'Teacher',
         img: '#',
-        text: 'Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor.',
+        text: 'As a teacher, I am constantly impressed by how quickly she grasps complex concepts. Her ability to excel in math and coding, while maintaining a 97% average, speaks volumes about her intelligence and dedication to learning.',
     },
 ];
 
