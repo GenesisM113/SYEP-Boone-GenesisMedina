@@ -4,21 +4,21 @@ const reviews = [
         name: 'Jayden John',
         job: 'Student',
         img: '#',
-        text: 'She is great at explaining tough concepts, whether it is math, coding, or even swimming techniques. She is always willing to help and still manages to stay focused on her own goals.',
+        text: 'Genesis is great at explaining tough concepts, whether it is math, coding, or even swimming techniques. She is always willing to help and still manages to stay focused on her own goals.',
     },
     {
         id: 2,
         name: 'Lisa Perez',
         job: 'Teacher',
         img: '#',
-        text: 'She consistently delivers top-notch work, whether it is crafting unique short stories or writing debate essays. Her diligence and sharp mind make her one of the brightest students I have worked with.',
+        text: 'Genesis consistently delivers top-notch work, whether it is crafting unique short stories or writing debate essays. Her diligence and sharp mind make her one of the brightest students I have worked with.',
     },
     {
         id: 3,
         name: 'Micheal Trainer',
         job: 'Teacher',
         img: '#',
-        text: 'As a teacher, I am constantly impressed by how quickly she grasps complex concepts. Her ability to excel in math and coding, while maintaining a 97% average, speaks volumes about her intelligence and dedication to learning.',
+        text: 'As a teacher, I am constantly impressed by how quickly Genesis grasps complex concepts. Her ability to excel in math and coding, while maintaining a 97% average, speaks volumes about her intelligence and dedication to learning.',
     },
 ];
 
